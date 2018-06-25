@@ -1,0 +1,8 @@
+<litepal>
+    <dbname value="weather_20180621"/>
+    <!--<version vaulue="1"/>-->
+    <version value="1"/>
+    <list>
+        <mapping class="com.lyl.weather_20180621.db.Province" />
+    </list>
+</litepal>
